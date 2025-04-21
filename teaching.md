@@ -6,14 +6,14 @@ permalink: /teaching/
 
 <font size="2">
 
-## 🎓 Lectures Given
+## Lectures Given
 
 ### 2024
 - Advanced Neuroimaging course, University of Minnesota — Invited by Dr. Alexander Opitz
 
 ---
 
-## 🎤 Invited Talks
+## Invited Talks
 
 ### 2023
 - Invited keynote speaker in the [4th international NIBS workshop](https://nibs-workshop.umn.edu)
@@ -38,7 +38,7 @@ permalink: /teaching/
 
 ---
 
-## 🧑‍🔬 Research Mentoring
+## Research Mentoring
 
 ### Undergraduate Students
 - Sasan Keshaverz (B.Sc., 2020)
@@ -49,7 +49,7 @@ permalink: /teaching/
 
 ---
 
-## 🧠 Teaching Experience
+## Teaching Experience
 
 ### Teaching Assistantships
 - **Modeling of Biological Systems**, Amirkabir University of Technology, 2018 — Prof. F. Towhidkhah
