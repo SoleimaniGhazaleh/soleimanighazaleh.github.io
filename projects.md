@@ -27,7 +27,7 @@ Investigating how electric field modeling and individualized neuroimaging data c
 </a>
 
 <p>
-A randomized, cross-over trial testing how theta-phase synchronized stimulation impacts EEG connectivity and behavioral performance.
+A preregistered, randomized, triple blind crossover clinical trial testing how theta-phase synchronized stimulation impacts fMRI drug cue reactivity, connectivity, and behavioral performance.
 <br>
 🔗 <a href="https://example.com/tacs-working-memory" target="_blank">Read More</a>
 </p>
