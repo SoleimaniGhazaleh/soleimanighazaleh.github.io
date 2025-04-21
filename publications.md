@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## 🧠 Peer-Reviewed Journal Articles
+## Peer-Reviewed Journal Articles
 
 ### 2025
 - **(J16)** Soleimani, G., Ekhtiari, H., Lim, K.O., Opitz, A. (2025). *Four dimensions of individualization in brain stimulation for psychiatric disorders: A practical guide for early-career researchers.* Neuropsychopharmacology. [https://doi.org/10.1038/s41386-025-02094-3](https://doi.org/10.1038/s41386-025-02094-3)
@@ -36,7 +36,7 @@ permalink: /publications/
 
 ---
 
-## 🎤 Selected Conference Proceedings
+## Selected Conference Proceedings
 
 - **(C1)** Soleimani, G., Ekhtiari, H. (2024). *fMRI-informed TMS Target Selection in Substance Use Disorders.* Drug and Alcohol Dependence, 260, 110082.
 - **(C3)** Soleimani, G., Kuplicki, R., Lim, K., et al. (2023). *Dual Neuromodulation Targets for Craving and Regulation: TMS-fMRI Results in OUD.* Neuropsychopharmacology, 48, 418–419.
