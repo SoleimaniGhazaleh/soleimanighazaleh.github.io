@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## 🧪 Featured Projects
 
-### 🎯 Personalized Brain Stimulation in SUD
+### 🎯 fMRI-Guided Personalized Brain Stimulation in SUD
 
 <a href="https://example.com/personalized-nibs" target="_blank">
   <img src="assets/images/project1.jpeg" alt="Personalized NIBS" width="200" style="border-radius: 10px; margin-bottom: 10px;">
