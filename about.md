@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-  <img src="IMG_7622.jpeg" alt="Ghazaleh Soleimani" width="250" style="border-radius: 10px;" />
+  <img src="IMG_7622.jpeg" alt="Ghazaleh Soleimani" width="200" style="border-radius: 10px;" />
 
   <div style="max-width: 700px;">
     <h2>Ghazaleh Soleimani</h2>
