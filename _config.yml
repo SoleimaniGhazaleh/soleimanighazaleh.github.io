@@ -1,0 +1,9 @@
+title: "Ghazaleh Soleimani"
+theme: minima
+
+header_pages:
+  - about.md
+  - publications.md
+  - teaching.md
+  - networking.md
+  - contact.md
