@@ -3,8 +3,12 @@ layout: page
 title: Teaching & Talks
 permalink: /teaching/
 ---
-## 🎓Lectures Given 2024
-- **Guest Lecture on fMRI**, Advanced Neuroimaging course, University of Minnesota, 2024 — Invited by Dr. Alexander Opitz
+
+## 🎓 Lectures Given
+
+### 2024
+- Advanced Neuroimaging course, University of Minnesota, 2024 — Invited by Dr. Alexander Opitz
+
 ---
 ## 🎤 Invited Talks
 
