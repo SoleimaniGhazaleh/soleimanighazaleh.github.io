@@ -4,6 +4,7 @@ theme: minima
 header_pages:
   - about.md
   - publications.md
+  - projects.md
   - teaching.md
   - networking.md
   - contact.md
