@@ -9,6 +9,8 @@ permalink: /about/
 
   <div style="max-width: 700px;">
     <h2>Ghazaleh Soleimani</h2>
+    <p style="font-style: italic; margin-top: -10px; color: #555;">(Pronounced like "Gazelle")</p>
+
     <p>
       I am a postdoctoral researcher at the University of Minnesota with a background in engineering and a specialization in neuroimaging and non-invasive brain stimulation, including TMS and tES techniques. During my postdoctoral training, I have worked under the mentorship of experts in both psychiatry—<a href="https://www.neuroscience.umn.edu/people/kelvin-o-lim-md">Dr. Kelvin O. Lim</a> and <a href="https://www.laureateinstitute.org/hamed-ekhtiari.html">Dr. Hamed Ekhtiari</a>—and biomedical engineering—<a href="https://cse.umn.edu/bme/alexander-opitz">Dr. Alexander Opitz</a>.
     </p>
