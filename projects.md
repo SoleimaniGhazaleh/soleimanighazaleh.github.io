@@ -20,7 +20,7 @@ Investigating how electric field modeling and individualized neuroimaging data c
 
 ---
 
-### 🧠 Traveling Wave tACS for Working Memory
+### 🧠 Frontoparietal tACS for Opioid Use Disorders
 
 <a href="https://example.com/tacs-working-memory" target="_blank">
   <img src="assets/images/project2.jpg" alt="Theta tACS" width="500" style="border-radius: 10px; margin-bottom: 10px;">
@@ -34,10 +34,24 @@ A randomized, cross-over trial testing how theta-phase synchronized stimulation 
 
 ---
 
+### 🧠 Traveling Wave tACS for Working Memory
+
+<a href="https://example.com/tacs-working-memory" target="_blank">
+  <img src="assets/images/project3.jpg" alt="Theta tACS" width="500" style="border-radius: 10px; margin-bottom: 10px;">
+</a>
+
+<p>
+A randomized, cross-over trial testing how theta-phase synchronized stimulation impacts EEG connectivity and behavioral performance.
+<br>
+🔗 <a href="https://example.com/tacs-working-memory" target="_blank">Read More</a>
+</p>
+
+---
+
 ### 🖥️ Closed-Loop TMS-EEG Task (MATLAB + Python)
 
 <a href="https://github.com/SoleimaniGhazaleh/ClosedLoop_Task" target="_blank">
-  <img src="assets/images/project3.jpg" alt="Closed Loop Task" width="500" style="border-radius: 10px; margin-bottom: 10px;">
+  <img src="assets/images/project4.jpg" alt="Closed Loop Task" width="500" style="border-radius: 10px; margin-bottom: 10px;">
 </a>
 
 <p>
