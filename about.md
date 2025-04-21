@@ -10,6 +10,9 @@ permalink: /about/
 <div style="max-width: 700px;">
 <h2>Ghazaleh Soleimani</h2>
 <p style="font-style: italic; margin-top: -10px; color: #555;">(Pronounced like "Gazelle")</p>
+<p>
+  <a href="CV_GhazalehSoleimani.pdf" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #004080; color: white; text-decoration: none; border-radius: 6px;">📄 Download My CV</a>
+</p>
 
 <p>
 I am a postdoctoral researcher at the University of Minnesota with a background in engineering and a specialization in neuroimaging and non-invasive brain stimulation, including TMS and tES techniques. During my postdoctoral training, I have worked under the mentorship of experts in both psychiatry—
