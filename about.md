@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![My Photo](profile.jpg)
+![My Photo](IMG_7622.jpeg)
 
 I am a postdoctoral researcher at the University of Minnesota with a background in engineering and a specialization in neuroimaging and non-invasive brain stimulation, including TMS and tES techniques. During my postdoctoral training, I have worked under the mentorship of experts in both psychiatry—[Dr. Kelvin O. Lim](https://www.neuroscience.umn.edu/people/kelvin-o-lim-md) and [Dr. Hamed Ekhtiari](https://www.laureateinstitute.org/hamed-ekhtiari.html)—and biomedical engineering—[Dr. Alexander Opitz](https://cse.umn.edu/bme/alexander-opitz).
 
