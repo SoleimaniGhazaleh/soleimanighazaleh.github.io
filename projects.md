@@ -9,7 +9,7 @@ permalink: /projects/
 ### 🎯 Personalized Brain Stimulation in SUD
 
 <a href="https://example.com/personalized-nibs" target="_blank">
-  <img src="assets/images/project1.jpg" alt="Personalized NIBS" width="500" style="border-radius: 10px; margin-bottom: 10px;">
+  <img src="assets/images/project1.jpeg" alt="Personalized NIBS" width="500" style="border-radius: 10px; margin-bottom: 10px;">
 </a>
 
 <p>
