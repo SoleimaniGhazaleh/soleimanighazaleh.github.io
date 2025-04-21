@@ -11,7 +11,7 @@ permalink: /about/
 <h2>Ghazaleh Soleimani</h2>
 <p style="font-style: italic; margin-top: -10px; color: #555;">(Pronounced like "Gazelle")</p>
 <p>
-  <a href="CV_GhazalehSoleimani.pdf" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #004080; color: white; text-decoration: none; border-radius: 6px;">📄 Download My CV</a>
+  <a href="CV_GhazalehSoleimani_ver22.pdf" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #004080; color: white; text-decoration: none; border-radius: 6px;">📄 Download My CV</a>
 </p>
 
 <p>
