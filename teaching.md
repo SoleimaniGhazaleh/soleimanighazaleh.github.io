@@ -4,15 +4,16 @@ title: Teaching & Talks
 permalink: /teaching/
 ---
 
-<div style="font-size: 14px;">
+<div style="font-size: 14px; line-height: 1.6;">
 
-## Lectures Given
+## 🎓 Lectures Given
 
 ### 2024
-- Advanced Neuroimaging course, University of Minnesota, 2024 — Invited by Dr. Alexander Opitz
+- Advanced Neuroimaging course, University of Minnesota — Invited by Dr. Alexander Opitz
 
 ---
-## Invited Talks
+
+## 🎤 Invited Talks
 
 ### 2023
 - Invited keynote speaker in the [4th international NIBS workshop](https://nibs-workshop.umn.edu)
@@ -37,7 +38,7 @@ permalink: /teaching/
 
 ---
 
-## Research Mentoring
+## 🧑‍🔬 Research Mentoring
 
 ### Undergraduate Students
 - Sasan Keshaverz (B.Sc., 2020)
@@ -48,7 +49,7 @@ permalink: /teaching/
 
 ---
 
-## Teaching Experience
+## 🧠 Teaching Experience
 
 ### Teaching Assistantships
 - **Modeling of Biological Systems**, Amirkabir University of Technology, 2018 — Prof. F. Towhidkhah
@@ -62,3 +63,5 @@ permalink: /teaching/
 - Cybernetics and Modeling of Biological Systems Lab, Amirkabir University of Technology — Supervised by Prof. F. Towhidkhah
 - Iranian National Center for Addiction Studies (INCAS)
 - Linear Control Lab, Isfahan University of Technology — Designed and implemented insula pump (under supervision of Dr. M. Zekri)
+
+</div>
