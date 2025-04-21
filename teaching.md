@@ -4,7 +4,14 @@ title: Teaching & Talks
 permalink: /teaching/
 ---
 
-<div style="font-size: 14px; line-height: 1.6;">
+<style>
+  .small-text {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+</style>
+
+<section class="small-text">
 
 ## Lectures Given
 
@@ -64,4 +71,4 @@ permalink: /teaching/
 - Iranian National Center for Addiction Studies (INCAS)
 - Linear Control Lab, Isfahan University of Technology — Designed and implemented insula pump (under supervision of Dr. M. Zekri)
 
-</div>
+</section>
