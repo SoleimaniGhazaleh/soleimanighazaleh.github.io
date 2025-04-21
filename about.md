@@ -6,7 +6,7 @@ permalink: /about/
 
 <table>
   <tr>
-    <td style="width: 300px; vertical-align: top;">
+    <td style="width: 1000px; vertical-align: top;">
       <img src="IMG_7622.jpeg" alt="Ghazaleh Soleimani" style="width: 250px; border-radius: 8px;"/>
     </td>
     <td style="padding-left: 30px;">
