@@ -1,5 +1,5 @@
 title: "Ghazaleh Soleimani"
-theme: jekyll-theme-slate
+theme: minima
 
 header_pages:
   - about.md
