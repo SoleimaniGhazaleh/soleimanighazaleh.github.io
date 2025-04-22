@@ -12,7 +12,6 @@ permalink: /teaching/
 ---
 
 ## Invited Talks
-
 ### 2023
 - Invited keynote speaker in the [4th international NIBS workshop](https://nibs-workshop.umn.edu)
 ### 2022
