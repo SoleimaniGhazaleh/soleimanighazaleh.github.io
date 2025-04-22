@@ -15,8 +15,9 @@ permalink: /
 <div style="max-width: 700px;">
 <h2>Ghazaleh (She/her)</h2>
 <p style="font-style: italic; color: #555; margin-top: 0;">
-  Pronounced like <a href="https://en.wikipedia.org/wiki/Gazelle" target="_blank">“Gazelle”</a> — a symbol of beautiful eyes and the rising sun in Persian culture ☀️🦌
+  (Pronounced like <a href="https://en.wikipedia.org/wiki/Gazelle" target="_blank" style="color: #555; text-decoration: underline;">Gazelle</a> — a symbol of beautiful eyes and the rising sun in Persian culture)
 </p>
+
 
 
 <p>
