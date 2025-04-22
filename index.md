@@ -38,5 +38,3 @@ My research focuses on developing personalized neuromodulation strategies for th
 
 <p>
 My long-term goal is to advance precision medicine in addiction science through translational research, interdisciplinary collaboration, and innovative methodological approaches.
-</p>
-My long-term goal is to advance precision medicine in addiction science through translational research, interdisciplinary collaboration, and innovative methodological approaches.
