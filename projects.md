@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Featured Projects
 
-### fMRI-Guided Personalized TMS for Methamphetamine Use Disorders
+### fMRI-Guided TMS for Methamphetamine Use Disorders
 
 <a href="https://example.com/personalized-nibs" target="_blank">
   <img src="/assets/images/project1.jpg" alt="Personalized NIBS" width="200" style="border-radius: 10px; margin-bottom: 10px;">
