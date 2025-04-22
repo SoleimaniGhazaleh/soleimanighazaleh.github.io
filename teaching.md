@@ -4,15 +4,12 @@ title: Teaching & Talks
 permalink: /teaching/
 ---
 
-<font size="2">
-
 ## Lectures Given
 
 ### 2024
-- Advanced Neuroimaging course, University of Minnesota — Invited by Dr. Alexander Opitz
+- Advanced Neuroimaging course, University of Minnesota, 2024 — Invited by Dr. Alexander Opitz
 
 ---
-
 ## Invited Talks
 
 ### 2023
@@ -63,5 +60,3 @@ permalink: /teaching/
 - Cybernetics and Modeling of Biological Systems Lab, Amirkabir University of Technology — Supervised by Prof. F. Towhidkhah
 - Iranian National Center for Addiction Studies (INCAS)
 - Linear Control Lab, Isfahan University of Technology — Designed and implemented insula pump (under supervision of Dr. M. Zekri)
-
-</font>
