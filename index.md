@@ -14,7 +14,10 @@ permalink: /
 
 <div style="max-width: 700px;">
 <h2>Ghazaleh (She/her)</h2>
-<p style="font-style: italic; margin-top: -10px; color: #555;">(Pronounced like "Gazelle")</p>
+<p style="font-style: italic; color: #555; margin-top: 0;">
+  Pronounced like <a href="https://en.wikipedia.org/wiki/Gazelle" target="_blank">“Gazelle”</a> — a symbol of beautiful eyes and the rising sun in Persian culture ☀️🦌
+</p>
+
 
 <p>
 I am a postdoctoral researcher at the University of Minnesota with a background in engineering and a specialization in neuroimaging and non-invasive brain stimulation, including TMS and tES techniques. During my postdoctoral training, I have worked under the mentorship of experts in both psychiatry—
