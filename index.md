@@ -10,7 +10,7 @@ permalink: /
 <meta name="author" content="Ghazaleh Soleimani">
 
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-<img src="mainPage.jpg" alt="Ghazaleh Soleimani" width="800" style="border-radius: 10px;" />
+<img src="mainPage.jpg" alt="About me" width="800" style="border-radius: 10px;" />
 
 <div style="max-width: 700px;">
 <h2>Ghazaleh (She/her)</h2>
