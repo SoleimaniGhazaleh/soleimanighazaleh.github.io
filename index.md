@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ghazaleh Soleimani
+title: About me
 permalink: /
 ---
 
