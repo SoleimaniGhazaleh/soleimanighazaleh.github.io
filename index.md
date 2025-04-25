@@ -15,7 +15,7 @@ permalink: /
 <div style="max-width: 700px;">
 <h2>Ghazaleh (She/her)</h2>
 <p style="font-style: italic; color: #555; margin-top: 0;">
-  (Pronounced like <a href="https://en.wikipedia.org/wiki/Gazelle" target="_blank" style="color: #555; text-decoration: underline;">Gazelle</a> 🦌 + /'e'/ — In Persian culture, Gazelle is a symbol of beautiful eyes. Adding an 'e' at the end turns it into a feminine name.)
+  (Pronounced like <a href="https://en.wikipedia.org/wiki/Gazelle" target="_blank" style="color: #555; text-decoration: underline;">Gazelle</a> 🦌)
 </p>
 
 
