@@ -12,6 +12,8 @@ permalink: /teaching/
 
 ## Invited Talks
 
+- Invited talk in [UPenn talk series](https://bsky.app/profile/desmondoathes.bsky.social/post/3logg6bzijs2s)
+- Invited talk in [Stimulating Brains](https://stimulatingbrains.org/14-ghazaleh-soleimani-colleen-hanlon/)
 - Invited keynote speaker in the [4th international NIBS workshop](https://nibs-workshop.umn.edu)
 - Invited keynote speaker in the [6th INTAM webinar](https://www.youtube.com/watch?v=F51mhoREk4o&t=40s)
 - Invited keynote speaker in the [2nd INSF-CAS joint workshop](https://www.youtube.com/watch?v=28LKYHtY7bA)
