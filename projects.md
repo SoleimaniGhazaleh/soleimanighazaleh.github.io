@@ -7,7 +7,6 @@ permalink: /projects/
 ## Featured Projects
 
 ### fMRI-Guided TMS for Methamphetamine Use Disorders
-
 <a href="/assets/images/project1.jpg" target="_blank">
   <img src="/assets/images/project1.jpg" alt="Personalized NIBS" width="200" style="border-radius: 10px; margin-bottom: 10px;">
 </a>
@@ -16,7 +15,10 @@ permalink: /projects/
 Investigating how electric field modeling and individualized neuroimaging data can guide TMS/tES interventions for substance use disorders.
 <br>
 🔗 <a href="/projects/fmri-guided-tms/" target="_blank">Read More</a>
+<br><br>
+🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/fmri-guided-TMS-GUI" target="_blank">GitHub repository</a> to access a user-friendly GUI for generating fMRI-guided TMS coordinates and running electric field simulations — from DICOM scans to ready-to-use targets.
 </p>
+
 
 ---
 
