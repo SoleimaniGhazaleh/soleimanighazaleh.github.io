@@ -14,7 +14,7 @@ permalink: /projects/
 <p>
 Investigating how electric field modeling and individualized neuroimaging data can guide TMS/tES interventions for substance use disorders.
 <br>
-🔗 <a href="/projects/fmri-guided-tms/" target="_blank">Read More</a>
+🔗 <a href="/projects/fmri-guided-tms/" target="_blank">Read More (Coming soon)</a>
 <br><br>
 🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/fmri-guided-TMS-GUI" target="_blank">GitHub repository</a> to access a user-friendly GUI for generating fMRI-guided TMS coordinates and running electric field simulations — from DICOM scans to ready-to-use targets.
 </p>
