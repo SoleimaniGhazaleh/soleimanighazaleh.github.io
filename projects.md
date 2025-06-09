@@ -8,44 +8,15 @@ permalink: /projects/
 
 ### fMRI-Guided TMS for Methamphetamine Use Disorders
 
-<a href="https://example.com/personalized-nibs" target="_blank">
+<a href="/assets/images/project1.jpg" target="_blank">
   <img src="/assets/images/project1.jpg" alt="Personalized NIBS" width="200" style="border-radius: 10px; margin-bottom: 10px;">
 </a>
 
 <p>
 Investigating how electric field modeling and individualized neuroimaging data can guide TMS/tES interventions for substance use disorders.
+<br>
+🔗 <a href="/projects/fmri-guided-tms/" target="_blank">Read More</a>
 </p>
-
-<details>
-  <summary>🔗 Read More</summary>
-
-  <br>
-
-  ### 🧠 fMRI-Guided TMS Pipeline Launcher
-
-  This is a Python-based GUI launcher for an end-to-end pipeline that supports fMRI preprocessing, atlas-based parcellation, contrast visualization, coordinate optimization, and electric field (EF) simulation using SimNIBS.
-
-  ---
-
-  ## 🚀 Features
-  - One-click launch of modular scripts (DICOM to BIDS, AFNI preprocessing, mesh generation, EF simulation, etc.)
-  - GUI interface built using `tkinter`
-  - Integration with `streamlit` apps for interactive visualization and analysis
-
-  ---
-
-  ## 📦 Requirements
-
-  ### ✅ Python
-  - Python 3.8 or newer  
-    Recommended to install via [Anaconda](https://www.anaconda.com/products/distribution)
-
-  ### ✅ Python Libraries
-  Install dependencies using:
-
-  ```bash
-  pip install -r requirements.txt
-
 
 ---
 
