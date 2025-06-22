@@ -50,3 +50,22 @@ permalink: /teaching/
 - Cybernetics and Modeling of Biological Systems Lab, Amirkabir University of Technology — Supervised by Prof. F. Towhidkhah
 - Iranian National Center for Addiction Studies (INCAS)
 - Linear Control Lab, Isfahan University of Technology — Designed and implemented insula pump (under supervision of Dr. M. Zekri)
+
+### Reviewer
+- Plos One
+- Plos Computational Biology
+- JAMA Psychiatry
+- American Journal of Psychiatry
+- Addictive Behaviors Report
+- Journal of Neuroscience Method
+- Journal of Neuroscience Research
+- Journal of Substance Use and Addiction Treatment
+- Neuroimage: Clinical
+- Neuromodulation: Technology at the Neural Interface
+- Neuroscience & Behavioral Reviews
+- Addiction
+- Addiction Biology
+- Addiction Treatment
+- Addiction Science and Clinical Practice
+- Brain & Behavior
+- Neuromodulation: Technology at the Neural Interface
