@@ -53,22 +53,26 @@ permalink: /teaching/
 
 ---
 
-## Reviewer
+## Reviewer for Scientific Journals
 
-- Plos One
-- Plos Computational Biology
-- JAMA Psychiatry
-- American Journal of Psychiatry
-- Addictive Behaviors Report
-- Journal of Neuroscience Method
-- Journal of Neuroscience Research
-- Journal of Substance Use and Addiction Treatment
-- Neuroimage: Clinical
-- Neuromodulation: Technology at the Neural Interface
-- Neuroscience & Behavioral Reviews
-- Addiction
-- Addiction Biology
-- Addiction Treatment
-- Addiction Science and Clinical Practice
-- Brain & Behavior
-- Neuromodulation: Technology at the Neural Interface
+<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+<ul>
+  <li><i>PLOS ONE</i></li>
+  <li><i>PLOS Computational Biology</i></li>
+  <li><i>JAMA Psychiatry</i></li>
+  <li><i>American Journal of Psychiatry</i></li>
+  <li><i>Addictive Behaviors Reports</i></li>
+  <li><i>Journal of Neuroscience Methods</i></li>
+  <li><i>Journal of Neuroscience Research</i></li>
+  <li><i>Journal of Substance Use and Addiction Treatment</i></li>
+  <li><i>NeuroImage: Clinical</i></li>
+  <li><i>Neuromodulation: Technology at the Neural Interface</i></li>
+  <li><i>Neuroscience & Biobehavioral Reviews</i></li>
+  <li><i>Addiction</i></li>
+  <li><i>Addiction Biology</i></li>
+  <li><i>Addiction Treatment</i></li>
+  <li><i>Addiction Science & Clinical Practice</i></li>
+  <li><i>Brain & Behavior</i></li>
+</ul>
+</div>
+
