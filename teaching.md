@@ -51,7 +51,10 @@ permalink: /teaching/
 - Iranian National Center for Addiction Studies (INCAS)
 - Linear Control Lab, Isfahan University of Technology — Designed and implemented insula pump (under supervision of Dr. M. Zekri)
 
-### Reviewer
+---
+
+## Reviewer
+
 - Plos One
 - Plos Computational Biology
 - JAMA Psychiatry
