@@ -12,8 +12,7 @@ permalink: /projects/
 </a>
 
 <p>
-Investigating how electric field modeling and individualized neuroimaging data can guide TMS interventions for substance use disorders.
-<br>
+This project investigates how electric field modeling and individualized neuroimaging data can guide transcranial magnetic stimulation (TMS) interventions for substance use disorders. We collect structural and fMRI drug cue reactivity data prior to stimulation, and perform rapid analysis to define individualized targets based on functional connectivity between subcortical regions and the prefrontal cortex. Computational head models are then used to optimize coil orientation, and stimulation intensity is adjusted based on each participant’s scalp-to-cortex distance.
 <br><br>
 🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/fmri-guided-TMS-GUI" target="_blank">GitHub repository</a> to access a user-friendly GUI for generating fMRI-guided TMS coordinates and running electric field simulations — from DICOM scans to ready-to-use targets.
 </p>
