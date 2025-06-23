@@ -59,6 +59,7 @@ permalink: /teaching/
 <ul>
   <li><i>PLOS ONE</i></li>
   <li><i>PLOS Computational Biology</i></li>
+  <li><i>PLOS Biology</i></li>
   <li><i>JAMA Psychiatry</i></li>
   <li><i>American Journal of Psychiatry</i></li>
   <li><i>Addictive Behaviors Reports</i></li>
