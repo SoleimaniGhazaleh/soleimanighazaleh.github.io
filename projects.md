@@ -27,7 +27,7 @@ This project investigates how electric field modeling and individualized neuroim
 </a>
 
 <p>
-A preregistered, randomized, triple blind crossover clinical trial testing how theta-phase synchronized stimulation impacts fMRI drug cue reactivity, connectivity, and behavioral performance.
+A preregistered, randomized, triple-blind crossover clinical trial investigating the effects of theta-phase synchronized transcranial alternating current stimulation (tACS) on fMRI drug cue reactivity, functional connectivity, and behavioral performance. Sixty participants with opioid use disorder received 20 minutes of active or sham theta-band (4–7 Hz) tACS via 4×1 HD electrode montages targeting the frontoparietal network (F4 and P4). Structural MRI, resting-state fMRI, and drug cue reactivity scans were collected immediately before and after stimulation.
 <br>
 🔗 <a href="https://example.com/tacs-working-memory" target="_blank">Read More</a>
 </p>
