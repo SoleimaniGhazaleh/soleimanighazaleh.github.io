@@ -64,7 +64,7 @@ A real-time task with TTL-triggered feedback designed to modulate and measure EE
 
 ---
 
-### High School Students Summer Program (Step-by-Step Learning)
+### High School Students Summer Program (Step-by-Step Neuroimaging-Neuromodulation Learning)
 
 <a href="/assets/images/hs-summer.jpg" target="_blank">
   <img src="/assets/images/hs-summer.jpg" alt="High School Students Summer Program" width="200" style="border-radius: 10px; margin-bottom: 10px;">
