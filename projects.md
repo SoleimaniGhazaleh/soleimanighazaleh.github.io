@@ -76,4 +76,7 @@ The High School Students Summer Program is a <strong>guided, step-by-step learni
 By the end of the program, students will have completed a mini-capstone neuroimaging-neuromodulation project and presented their work in a short talk and one-page summary.  
 <br><br>
 
+🧰 <strong>Please visit the <a href="https://github.com/SoleimaniGhazaleh/soleimanighazaleh.github.io" target="_blank">GitHub repository</a> to access the whole package.</strong>
+</p>
+
 
