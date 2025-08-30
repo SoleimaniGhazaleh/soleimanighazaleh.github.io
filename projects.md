@@ -61,3 +61,24 @@ A real-time task with TTL-triggered feedback designed to modulate and measure EE
 <br>
 🔗 <a href="https://github.com/SoleimaniGhazaleh/ClosedLoop_Task" target="_blank">View on GitHub</a>
 </p>
+
+---
+
+### High School Students Summer Program
+
+<a href="/assets/images/hs-summer.jpg" target="_blank">
+  <img src="/assets/images/hs-summer.jpg" alt="High School Students Summer Program" width="200" style="border-radius: 10px; margin-bottom: 10px;">
+</a>
+
+<p>
+This summer program is designed to introduce high school students to neuroscience and brain stimulation research. Over 6–8 weeks, students will participate in hands-on workshops covering neuroscience fundamentals, EEG and fMRI basics, and introductory coding in Python and MATLAB.  
+<br><br>
+Students will work on mini-projects (e.g., EEG signal analysis, simple fMRI visualization), attend weekly mentorship meetings, and present their work in a final poster session.  
+<br><br>
+📅 <strong>Timeline:</strong> Applications open March 1, close April 15; Program runs June 10 – August 2.  
+<br>
+👥 <strong>Mentors:</strong> Dr. Kelvin Lim, Dr. Alexander Opitz, Dr. Hamed Ekhtiari, and Ghazaleh Soleimani.  
+<br><br>
+📩 For details or to apply, please contact <a href="mailto:your-email@umn.edu">your-email@umn.edu</a>.
+</p>
+
