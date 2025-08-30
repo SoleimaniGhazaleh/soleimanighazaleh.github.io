@@ -64,35 +64,21 @@ A real-time task with TTL-triggered feedback designed to modulate and measure EE
 
 ---
 
-### High School Students Summer Program
+### High School Students Summer Program (Step-by-Step Learning)
 
-<a href="/assets/images/hs-summer.jpg" target="_blank">
-  <img src="/assets/images/hs-summer.jpg" alt="High School Students Summer Program" width="200" style="border-radius: 10px; margin-bottom: 10px;">
+<a href="/divider-final-05.jpg" target="_blank">
+  <img src="/divider-final-05.jpg" alt="High School Students Summer Program" width="200" style="border-radius: 10px; margin-bottom: 10px;">
 </a>
 
 <p>
-This is a <strong>scaffolded, step-by-step learning path</strong> (not a workshop series). Students progress through short modules that build on each other, each with clear goals, a brief tutorial, a checklist, and a small hands-on task. By the end, they complete a mini-capstone and present their work.
+The High School Students Summer Program is a <strong>guided, step-by-step learning journey</strong> (not a one-time workshop). Over the course of 6–8 weeks, participants move through carefully designed modules that build on one another. Each module provides clear goals, short tutorials, checklists, and small hands-on tasks.  
+<br><br>
+By the end of the program, students will have completed a mini-capstone project and presented their work in a short talk and one-page summary.  
+<br><br>
+📅 <strong>Timeline:</strong> Applications open March&nbsp;1 and close April&nbsp;15. The program runs from June&nbsp;10 – August&nbsp;2.  
+<br>
+👥 <strong>Mentors:</strong> Dr. Kelvin Lim, Dr. Alexander Opitz, Dr. Hamed Ekhtiari, and Ghazaleh Soleimani  
+<br>
+📩 For details or to apply, please contact <a href="mailto:your-email@umn.edu">your-email@umn.edu</a>.
 </p>
 
-<h4>Learning Path</h4>
-<ol>
-  <li><strong>Setup:</strong> Accounts, Git/GitHub, VS Code/Jupyter</li>
-  <li><strong>Neuroscience & Signals 101:</strong> basic brain areas, EEG/fMRI at a glance</li>
-  <li><strong>Python Fundamentals:</strong> variables, plots, reading data</li>
-  <li><strong>EEG Basics:</strong> load → filter → visualize a simple dataset</li>
-  <li><strong>fMRI Basics:</strong> anatomy → slices → basic viewing</li>
-  <li><strong>Reproducible Science:</strong> folders, README, citations, version control</li>
-  <li><strong>Mini-Capstone:</strong> pick a tiny dataset → ask a question → make a figure</li>
-  <li><strong>Share:</strong> 3-minute lightning talk + 1-page summary</li>
-</ol>
-
-<h4>How it Works</h4>
-<ul>
-  <li>Self-paced modules with progress checklists and optional challenges</li>
-  <li>Mentor feedback via GitHub Issues/PRs; simple rubrics for each module</li>
-  <li>No prior coding required; all materials and starter files provided</li>
-</ul>
-
-<p>
-📩 Questions? <a href="mailto:your-email@umn.edu">your-email@umn.edu</a>
-</p>
