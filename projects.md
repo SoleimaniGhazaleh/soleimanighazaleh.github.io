@@ -71,7 +71,7 @@ A real-time task with TTL-triggered feedback designed to modulate and measure EE
 </a>
 
 <p>
-The High School Students Summer Program is a <strong>guided, step-by-step learning journey</strong> (not a one-time workshop). Over the course of 6–8 weeks, participants move through carefully designed modules that build on one another. Each module provides clear goals, short tutorials, checklists, and small hands-on tasks.  
+The High School Students Summer Program is a <strong>guided, step-by-step learning journey</strong>. Over the course of 6–8 weeks, participants move through carefully designed modules that build on one another. Each module provides clear goals, short tutorials, checklists, and small hands-on tasks.  
 <br><br>
 By the end of the program, students will have completed a mini-capstone project and presented their work in a short talk and one-page summary.  
 <br><br>
