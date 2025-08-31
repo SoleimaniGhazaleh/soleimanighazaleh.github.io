@@ -13,25 +13,21 @@ permalink: /projects/
   }
   .project-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 24px;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* 💡 was 220px */
+    gap: 16px;                                                  /* 💡 was 24px */
     align-items: start;
   }
-  .project-card {
-    text-align: center;
-  }
+  .project-card { text-align: center; }
   .project-card h3 {
-    font-size: 1rem;
-    margin: 0 0 8px;
+    font-size: 0.95rem;
+    margin: 0 0 6px;
     line-height: 1.3;
   }
-  .project-card h3 a {
-    text-decoration: none;
-  }
+  .project-card h3 a { text-decoration: none; }
   .project-card a img {
     display: block;
     margin: 0 auto;
-    width: 220px;            /* tweak this to make images larger/smaller */
+    width: 140px;            /* smaller thumbnails */
     max-width: 100%;
     border-radius: 10px;
   }
@@ -75,10 +71,10 @@ permalink: /projects/
     </a>
   </div>
 
-  <!-- 5) High School Program -->
+  <!-- 5) High School Program (external) -->
   <div class="project-card">
-    <h3><a href="/projects/high-school-program/">High School Students Summer Program</a></h3>
-    <a href="/projects/high-school-programmm/">
+    <h3><a href="https://soleimanighazaleh.github.io/High-School-Program/" target="_blank" rel="noopener">High School Program</a></h3>
+    <a href="https://soleimanighazaleh.github.io/High-School-Program/" target="_blank" rel="noopener">
       <img src="/divider-final-05.jpg" alt="High School Students Summer Program">
     </a>
   </div>
