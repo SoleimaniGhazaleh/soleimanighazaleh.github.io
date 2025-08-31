@@ -78,7 +78,7 @@ permalink: /projects/
   <!-- 5) High School Program -->
   <div class="project-card">
     <h3><a href="/projects/high-school-program/">High School Students Summer Program</a></h3>
-    <a href="/projects/high-school-program/">
+    <a href="/projects/high-school-programmm/">
       <img src="/divider-final-05.jpg" alt="High School Students Summer Program">
     </a>
   </div>
