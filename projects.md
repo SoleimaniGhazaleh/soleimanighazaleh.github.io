@@ -37,7 +37,7 @@ permalink: /projects/
 <p> 
   Neural oscillations often propagate as traveling waves across the cortex, coordinating activity between distant brain regions. Transcranial alternating current stimulation (tACS) offers a promising method to modulate these dynamics noninvasively. In this study, we tested whether frontoparietal tACS, delivered with controlled frequency and phase offsets to simulate traveling waves in the theta band, could causally influence working memory performance and resting-state EEG activity. We conducted a randomized, triple-blind, sham-controlled crossover study in 29 healthy adults. Participants received four active tACS conditions—combining two frequencies (4 Hz, 7 Hz) and two phase offsets (45°, 315°)—and sham stimulation across two sessions. During stimulation, participants performed 2-back and 3-back working memory tasks. Resting-state EEG was recorded pre- and post-stimulation. 
   <br><br> 
-  🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/Traveling-Wave-tACS" target="_blank" rel="noopener">GitHub Repository</a> to access the whole package. 
+  🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/Traveling-Wave-tACS" target="_blank" rel="noopener">GitHub Repository</a> to see more details. 
 </p>
 
 ---
