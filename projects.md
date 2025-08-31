@@ -5,94 +5,83 @@ permalink: /projects/
 ---
 
 <style>
-  /* keep it lightweight & page-local */
-  .projects-center {
-    max-width: 900px;
+  /* Compact, centered grid */
+  .projects-wrap {
+    max-width: 1100px;
     margin: 0 auto;
+    padding: 0.5rem 1rem 2rem;
+  }
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 24px;
+    align-items: start;
+  }
+  .project-card {
     text-align: center;
   }
-  .projects-center img {
+  .project-card h3 {
+    font-size: 1rem;
+    margin: 0 0 8px;
+    line-height: 1.3;
+  }
+  .project-card h3 a {
+    text-decoration: none;
+  }
+  .project-card a img {
     display: block;
-    margin: 0.35rem auto 0.6rem;
+    margin: 0 auto;
+    width: 220px;            /* tweak this to make images larger/smaller */
+    max-width: 100%;
     border-radius: 10px;
-  }
-  .projects-center h3,
-  .projects-center h2 {
-    margin-top: 1.2rem;
-  }
-  .projects-center p {
-    margin: 0 auto 1.2rem;
-    max-width: 800px;
-  }
-  .projects-center hr {
-    max-width: 720px;
-    margin: 1.2rem auto;
   }
 </style>
 
-<div class="projects-center">
+<div class="projects-wrap">
 
 ## Featured Projects
 
-### [fMRI-Guided TMS for Methamphetamine Use Disorders](/projects/fmri-guided-tms/)
-<a href="/projects/fmri-guided-tms/">
-  <img src="/assets/images/project1.jpg" alt="Personalized NIBS" width="200">
-</a>
-<p>
-Using individualized drug-cue fMRI + EF modeling to define TMS targets; coil orientation and dose adjusted by scalp-to-cortex distance.
-<br>
-🧰 <a href="https://github.com/SoleimaniGhazaleh/fmri-guided-TMS-GUI" target="_blank" rel="noopener">GitHub repository</a> ·
-<a href="/projects/fmri-guided-tms/">Read more</a>
-</p>
+<div class="project-grid">
 
-<hr>
+  <!-- 1) fMRI-Guided TMS -->
+  <div class="project-card">
+    <h3><a href="/projects/fmri-guided-tms/">fMRI-Guided TMS for Methamphetamine Use Disorders</a></h3>
+    <a href="/projects/fmri-guided-tms/">
+      <img src="/assets/images/project1.jpg" alt="Personalized NIBS">
+    </a>
+  </div>
 
-### [Frontoparietal Dual-Site tACS-fMRI for Opioid Use Disorders](/projects/dualsite-tacs-fmri/)
-<a href="/projects/dualsite-tacs-fmri/">
-  <img src="/assets/images/project2.jpg" alt="Theta tACS" width="200">
-</a>
-<p>
-Preregistered triple-blind crossover: 6 Hz theta tACS (F4–P4) with pre/post fMRI and behavior.
-<br>
-🔗 <a href="/projects/dualsite-tacs-fmri/">Read more</a>
-</p>
+  <!-- 2) Dual-Site tACS-fMRI -->
+  <div class="project-card">
+    <h3><a href="/projects/dualsite-tacs-fmri/">Frontoparietal Dual-Site tACS-fMRI (Opioid Use Disorders)</a></h3>
+    <a href="/projects/dualsite-tacs-fmri/">
+      <img src="/assets/images/project2.jpg" alt="Theta tACS">
+    </a>
+  </div>
 
-<hr>
+  <!-- 3) Traveling-Wave tACS-EEG -->
+  <div class="project-card">
+    <h3><a href="/projects/traveling-wave-tacs-eeg/">Traveling Wave tACS-EEG for Working Memory</a></h3>
+    <a href="/projects/traveling-wave-tacs-eeg/">
+      <img src="/assets/images/project3.jpg" alt="Traveling Wave tACS">
+    </a>
+  </div>
 
-### [Traveling Wave tACS-EEG for Working Memory](/projects/traveling-wave-tacs-eeg/)
-<a href="/projects/traveling-wave-tacs-eeg/">
-  <img src="/assets/images/project3.jpg" alt="Theta tACS" width="200">
-</a>
-<p>
-Randomized triple-blind crossover (n=29): 4/7 Hz × 45°/315°; 2-/3-back during stimulation + pre/post EEG.
-<br>
-🔗 <a href="/projects/traveling-wave-tacs-eeg/">Read more</a>
-</p>
+  <!-- 4) Closed-Loop Task -->
+  <div class="project-card">
+    <h3><a href="/projects/closed-loop-task/">Closed-Loop TMS-EEG Task (MATLAB + Python)</a></h3>
+    <a href="/projects/closed-loop-task/">
+      <img src="/assets/images/project4.jpg" alt="Closed Loop Task">
+    </a>
+  </div>
 
-<hr>
+  <!-- 5) High School Program -->
+  <div class="project-card">
+    <h3><a href="/projects/high-school-program/">High School Students Summer Program</a></h3>
+    <a href="/projects/high-school-program/">
+      <img src="/divider-final-05.jpg" alt="High School Students Summer Program">
+    </a>
+  </div>
 
-### [Closed-Loop TMS-EEG Task (MATLAB + Python) for Stimulant Use Disorders](/projects/closed-loop-task/)
-<a href="/projects/closed-loop-task/">
-  <img src="/assets/images/project4.jpg" alt="Closed Loop Task" width="200">
-</a>
-<p>
-Real-time TTL-triggered feedback to probe and modulate EEG states during neurostimulation.
-<br>
-🔗 <a href="https://github.com/SoleimaniGhazaleh/ClosedLoop_Task" target="_blank" rel="noopener">View on GitHub</a> ·
-<a href="/projects/closed-loop-task/">Read more</a>
-</p>
-
-<hr>
-
-### [High School Students Summer Program (Step-by-Step Learning)](/projects/high-school-program/)
-<a href="/projects/high-school-program/">
-  <img src="/divider-final-05.jpg" alt="High School Students Summer Program" width="200">
-</a>
-<p>
-6–8 week guided modules with goals, checklists, a mini-capstone, and a short final presentation.
-<br>
-🧰 <a href="https://soleimanighazaleh.github.io/High-School-Program/" target="_blank" rel="noopener">Program website</a> ·
-<a href="/projects/high-school-program/">Read more</a>
-</p>
-
+</div>
 </div>
