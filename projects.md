@@ -5,12 +5,36 @@ permalink: /projects/
 ---
 
 <style>
-  .projects-wrap{max-width:1100px;margin:0 auto;padding:0.5rem 1rem 2rem;}
-  .project-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:16px;align-items:start;justify-items:center;}
-  .project-card{text-align:center}
-  .project-card h3{font-size:.95rem;margin:0 0 6px;line-height:1.3}
-  .project-card h3 a{text-decoration:none}
-  .project-card a img{display:block;margin:0 auto;width:140px;max-width:100%;border-radius:10px}
+  .projects-wrap {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0.5rem 1rem 2rem;
+  }
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 16px;
+    align-items: start;
+    justify-items: center;
+  }
+  .project-card {
+    text-align: center;
+  }
+  .project-card h3 {
+    font-size: .95rem;
+    margin: 0 0 6px;
+    line-height: 1.3;
+  }
+  .project-card h3 a {
+    text-decoration: none;
+  }
+  .project-card a img {
+    display: block;
+    margin: 0 auto;
+    width: 140px;
+    max-width: 100%;
+    border-radius: 10px;
+  }
 </style>
 
 <div class="projects-wrap">
