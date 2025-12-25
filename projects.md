@@ -59,12 +59,18 @@ permalink: /projects/
   <img src="/assets/images/project_closedloop_tacs_fmri.jpg" alt="Closed-Loop tACS-fMRI" width="200" style="border-radius: 10px; margin-bottom: 10px;"> 
 </a>  
 <p> 
-This project integrates three complementary components: (1) a conceptual framework for real-time, network-guided neuromodulation, (2) a safety and feasibility protocol for concurrent tACS–fMRI, and (3) a randomized, double-arm closed-loop tACS–fMRI implementation for individualized, network-specific stimulation. In the closed-loop study, stimulation frequency and phase between the right dorsolateral prefrontal cortex (F4) and right inferior parietal cortex (P4) are iteratively optimized using real-time fMRI-based frontoparietal functional connectivity measured during a 2-back working memory task. A simplex optimization algorithm adapts stimulation parameters based on ongoing neural responses, enabling causal modulation of frontoparietal networks.
+This project integrates three complementary components: 
+(1) a <strong>conceptual framework</strong> for real-time, network-guided neuromodulation (<a href="https://www.nature.com/articles/s41398-023-02565-5" target="_blank" rel="noopener">Read the paper</a>), 
+(2) a <strong>safety and feasibility protocol</strong> for concurrent tACS–fMRI (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.2667" target="_blank" rel="noopener">Read the paper</a>), 
+and (3) a <strong>randomized, double-arm closed-loop tACS–fMRI implementation</strong> for individualized, network-specific stimulation. 
+
+In the closed-loop study, stimulation frequency and phase between the right dorsolateral prefrontal cortex (F4) and right inferior parietal cortex (P4) are iteratively optimized using real-time fMRI-based frontoparietal functional connectivity measured during a 2-back working memory task. A simplex optimization algorithm adapts stimulation parameters based on ongoing neural responses, enabling causal modulation of frontoparietal networks.
   <br><br>
   🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri" target="_blank" rel="noopener">GitHub repository</a> for the full analysis pipeline, optimization framework, and reproducible code.
 </p>
 
 ---
+
 
 ### High School Students Summer Program (Step-by-Step Learning)
 <a href="/divider-final-05.jpg" target="_blank"> 
