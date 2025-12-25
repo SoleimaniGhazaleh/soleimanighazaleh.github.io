@@ -54,6 +54,18 @@ permalink: /projects/
 
 ---
 
+### Closed-Loop tACS–fMRI Frontoparietal Optimization
+<a href="https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri" target="_blank"> 
+  <img src="/assets/images/project_closedloop_tacs_fmri.jpg" alt="Closed-Loop tACS-fMRI" width="200" style="border-radius: 10px; margin-bottom: 10px;"> 
+</a>  
+<p> 
+  This project presents a randomized, double-arm closed-loop tACS–fMRI framework for individualized, network-specific neuromodulation. Stimulation frequency and phase between the right dorsolateral prefrontal cortex (F4) and right inferior parietal cortex (P4) are iteratively optimized using real-time fMRI-based frontoparietal functional connectivity measured during a 2-back working memory task. A simplex optimization algorithm adapts stimulation parameters based on ongoing neural responses, enabling closed-loop modulation of frontoparietal networks.
+  <br><br>
+  🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri" target="_blank" rel="noopener">GitHub repository</a> for the full analysis pipeline, optimization framework, and reproducible code.
+</p>
+
+---
+
 ### High School Students Summer Program (Step-by-Step Learning)
 <a href="/divider-final-05.jpg" target="_blank"> 
   <img src="/divider-final-05.jpg" alt="High School Students Summer Program" width="200" style="border-radius: 10px; margin-bottom: 10px;"> 
