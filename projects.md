@@ -59,7 +59,7 @@ permalink: /projects/
   <img src="/assets/images/project_closedloop_tacs_fmri.jpg" alt="Closed-Loop tACS-fMRI" width="200" style="border-radius: 10px; margin-bottom: 10px;"> 
 </a>  
 <p> 
- This project spans three stages of development: a conceptual framework for real-time network-guided neuromodulation, a protocol study establishing safety and feasibility of concurrent tACS–fMRI, and a randomized, double-arm closed-loop implementation. In the closed-loop study, stimulation frequency and phase between the right dorsolateral prefrontal cortex (F4) and right inferior parietal cortex (P4) are optimized in real time using fMRI-derived frontoparietal functional connectivity during a 2-back working memory task.
+This project integrates three complementary components: (1) a conceptual framework for real-time, network-guided neuromodulation, (2) a safety and feasibility protocol for concurrent tACS–fMRI, and (3) a randomized, double-arm closed-loop tACS–fMRI implementation for individualized, network-specific stimulation. In the closed-loop study, stimulation frequency and phase between the right dorsolateral prefrontal cortex (F4) and right inferior parietal cortex (P4) are iteratively optimized using real-time fMRI-based frontoparietal functional connectivity measured during a 2-back working memory task. A simplex optimization algorithm adapts stimulation parameters based on ongoing neural responses, enabling causal modulation of frontoparietal networks.
   <br><br>
   🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri" target="_blank" rel="noopener">GitHub repository</a> for the full analysis pipeline, optimization framework, and reproducible code.
 </p>
