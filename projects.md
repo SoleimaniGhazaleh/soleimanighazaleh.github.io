@@ -19,13 +19,15 @@ permalink: /projects/
 ---
 
 ### Frontoparietal Dual-Site tACS-fMRI for Opioid Use Disorders
-<a href="https://example.com/tacs-working-memory" target="_blank"> 
+<a href="https://github.com/SoleimaniGhazaleh/Frontoparietal-tACS-OUD/tree/main" target="_blank" rel="noopener"> 
   <img src="/assets/images/project2.jpg" alt="Theta tACS" width="200" style="border-radius: 10px; margin-bottom: 10px;"> 
 </a>  
 <p> 
-  A preregistered, randomized, triple-blind crossover clinical trial investigating the effects of theta-phase synchronized transcranial alternating current stimulation (tACS) on fMRI drug cue reactivity, functional connectivity, and behavioral performance. Sixty participants with opioid use disorder received 20 minutes of active or sham theta-band (6 Hz) tACS via 4×1 HD electrode montages targeting the frontoparietal network (F4 and P4). Structural MRI, resting-state fMRI, and drug cue reactivity scans were collected immediately before and after stimulation. 
+  A preregistered, randomized, triple-blind crossover clinical trial investigating the effects of theta-phase synchronized transcranial alternating current stimulation (tACS) on fMRI drug cue reactivity, functional connectivity, and behavioral performance. Sixty participants with opioid use disorder received 20 minutes of active or sham theta-band (6 Hz) tACS via 4×1 HD electrode montages targeting the frontoparietal network (F4 and P4). Structural MRI, resting-state fMRI, and drug cue reactivity scans were collected immediately before and after stimulation.
+</p>
+
 <p>
-  🔗 <a href="https://github.com/SoleimaniGhazaleh/Frontoparietal-tACS-OUD/tree/main" target="_blank">
+  🔗 <a href="https://github.com/SoleimaniGhazaleh/Frontoparietal-tACS-OUD/tree/main" target="_blank" rel="noopener">
     Read More
   </a>
 </p>
