@@ -16,7 +16,7 @@ permalink: /
 <h2>Ghazaleh (She/her)</h2>
 <p style="font-style: italic; color: #555; margin-top: 0;">
  (Pronounced like <a href="https://en.wikipedia.org/wiki/Gazelle" target="_blank" style="color: #555; text-decoration: underline;">Gazelle</a> 🦌 in English.
-For the Persian pronunciation, click <a href="https://www.youtube.com/watch?v=ZRmF1B6lam0" target="_blank" style="color: #555; text-decoration: underline;">here</a>.)
+For the Persian pronunciation (/Gæˈzɑːle/), click <a href="https://www.youtube.com/watch?v=ZRmF1B6lam0" target="_blank" style="color: #555; text-decoration: underline;">here</a>.)
 </p>
 
 
