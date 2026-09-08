@@ -29,7 +29,7 @@ I am a postdoctoral researcher at the University of Minnesota with a background 
 </p>
 
 <div style="margin-top: 10px;">
-  <a href="CV_GhazalehSoleimani_ver22.pdf" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #004080; color: white; text-decoration: none; border-radius: 6px;">📄 Download My CV</a>
+  <a href="CV_GhazalehSoleimani_Aug_2026.pdf" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #004080; color: white; text-decoration: none; border-radius: 6px;">📄 Download My CV</a>
 </div>
 
 </div>
