@@ -19,13 +19,13 @@ permalink: /projects/
 ---
 
 ### Frontoparietal Dual-Site tACS-fMRI for Opioid Use Disorders
-<a href="https://example.com/tacs-working-memory" target="_blank"> 
+<a href="https://github.com/SoleimaniGhazaleh/Frontoparietal-tACS-OUD/tree/main" target="_blank" rel="noopener"> 
   <img src="/assets/images/project2.jpg" alt="Theta tACS" width="200" style="border-radius: 10px; margin-bottom: 10px;"> 
 </a>  
 <p> 
-  A preregistered, randomized, triple-blind crossover clinical trial investigating the effects of theta-phase synchronized transcranial alternating current stimulation (tACS) on fMRI drug cue reactivity, functional connectivity, and behavioral performance. Sixty participants with opioid use disorder received 20 minutes of active or sham theta-band (6 Hz) tACS via 4×1 HD electrode montages targeting the frontoparietal network (F4 and P4). Structural MRI, resting-state fMRI, and drug cue reactivity scans were collected immediately before and after stimulation. 
-  <br> 
-  🔗 <a href="https://example.com/tacs-working-memory" target="_blank">Read More</a> 
+  A preregistered, randomized, triple-blind crossover clinical trial investigating the effects of theta-phase synchronized transcranial alternating current stimulation (tACS) on fMRI drug cue reactivity, functional connectivity, and behavioral performance. Sixty participants with opioid use disorder received 20 minutes of active or sham theta-band (6 Hz) tACS via 4×1 HD electrode montages targeting the frontoparietal network (F4 and P4). Structural MRI, resting-state fMRI, and drug cue reactivity scans were collected immediately before and after stimulation.
+    <br><br> 
+  🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/Frontoparietal-tACS-OUD/tree/main" target="_blank" rel="noopener">GitHub Repository</a> to see more details. 
 </p>
 
 ---
@@ -36,8 +36,8 @@ permalink: /projects/
 </a>  
 <p> 
   Neural oscillations often propagate as traveling waves across the cortex, coordinating activity between distant brain regions. Transcranial alternating current stimulation (tACS) offers a promising method to modulate these dynamics noninvasively. In this study, we tested whether frontoparietal tACS, delivered with controlled frequency and phase offsets to simulate traveling waves in the theta band, could causally influence working memory performance and resting-state EEG activity. We conducted a randomized, triple-blind, sham-controlled crossover study in 29 healthy adults. Participants received four active tACS conditions—combining two frequencies (4 Hz, 7 Hz) and two phase offsets (45°, 315°)—and sham stimulation across two sessions. During stimulation, participants performed 2-back and 3-back working memory tasks. Resting-state EEG was recorded pre- and post-stimulation. 
-  <br> 
-  🔗 <a href="https://example.com/tacs-working-memory" target="_blank">Read More</a> 
+  <br><br> 
+  🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/Traveling-Wave-tACS" target="_blank" rel="noopener">GitHub Repository</a> to see more details. 
 </p>
 
 ---
@@ -53,6 +53,24 @@ permalink: /projects/
 </p>
 
 ---
+
+### Closed-Loop tACS–fMRI Frontoparietal Optimization
+<a href="https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri" target="_blank"> 
+  <img src="/assets/images/project_closedloop_tacs_fmri.jpg" alt="Closed-Loop tACS-fMRI" width="200" style="border-radius: 10px; margin-bottom: 10px;"> 
+</a>  
+<p> 
+This project integrates three complementary components: 
+(1) a <strong>conceptual framework</strong> for real-time, network-guided neuromodulation (<a href="https://www.nature.com/articles/s41398-023-02565-5" target="_blank" rel="noopener">Read the paper</a>), 
+(2) a <strong>safety and feasibility protocol</strong> for concurrent tACS–fMRI (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.2667" target="_blank" rel="noopener">Read the paper</a>), 
+and (3) a <strong>randomized, double-arm closed-loop tACS–fMRI implementation</strong> for individualized, network-specific stimulation. 
+
+In the closed-loop study, stimulation frequency and phase between the right dorsolateral prefrontal cortex (F4) and right inferior parietal cortex (P4) are iteratively optimized using real-time fMRI-based frontoparietal functional connectivity measured during a 2-back working memory task. A simplex optimization algorithm adapts stimulation parameters based on ongoing neural responses, enabling causal modulation of frontoparietal networks.
+  <br><br>
+  🧰 Please visit the <a href="https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri" target="_blank" rel="noopener">GitHub repository</a> for the full analysis pipeline, optimization framework, and reproducible code.
+</p>
+
+---
+
 
 ### High School Students Summer Program (Step-by-Step Learning)
 <a href="/divider-final-05.jpg" target="_blank"> 
