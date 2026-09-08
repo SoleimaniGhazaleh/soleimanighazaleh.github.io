@@ -71,6 +71,24 @@ In the closed-loop study, stimulation frequency and phase between the right dors
 
 ---
 
+Meta-Modeling for Precision Neuromodulation in Substance Use Disorders
+
+<a href="/assets/images/project_metamodeling.jpg" target="_blank"> <img src="/assets/images/project_metamodeling.jpg" alt="Meta-Modeling for Precision Neuromodulation" width="200" style="border-radius: 10px; margin-bottom: 10px;"> </a> <p> This project develops a <strong>meta-modeling framework for precision neuromodulation</strong> that goes beyond conventional meta-analysis by integrating computational electric-field modeling with evidence synthesized across clinical brain stimulation studies. Rather than treating stimulation location as a categorical protocol characteristic, the framework reconstructs and models the spatial distribution of stimulation across the brain, enabling investigation of <strong>where stimulation is delivered, which neural regions are most consistently associated with therapeutic effects, and how spatial stimulation parameters contribute to variability in clinical outcomes</strong>.
+
+<br><br>
+The framework has been applied across two major noninvasive brain stimulation modalities in substance use disorders: <strong>transcranial electrical stimulation (tES)</strong> and <strong>transcranial magnetic stimulation (TMS)</strong>. For tES, individualized computational head models are used to reconstruct electric-field distributions from published stimulation montages and relate regional field strength to treatment outcomes across studies. For TMS, stimulation coordinates and coil parameters are computationally reconstructed to estimate cortical electric-field exposure and identify spatial patterns associated with clinical efficacy.
+
+<br><br>
+Together, these approaches introduce a <strong>spatially informed and mechanistic layer to conventional meta-analysis</strong>, transforming stimulation parameters reported across heterogeneous studies into quantitative brain-level predictors. This framework provides a scalable strategy for identifying candidate therapeutic targets, comparing stimulation approaches, explaining between-study heterogeneity, and informing the design of future precision neuromodulation trials.
+
+<br><br>
+📄 <strong>Electrical stimulation meta-modeling:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S0149763426002150" target="_blank" rel="noopener">Read the paper</a>
+<br>
+📄 <strong>TMS meta-modeling:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S2451902226002090" target="_blank" rel="noopener">Read the paper</a>
+
+</p>
+
+---
 
 ### High School Students Summer Program (Step-by-Step Learning)
 <a href="/divider-final-05.jpg" target="_blank"> 
